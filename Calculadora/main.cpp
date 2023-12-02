@@ -1,5 +1,5 @@
 //  main.cpp
-//  hello
+//  hello world
 //  Created by Joan Galindo López on 19/11/2023.
 //  Si estàs en vscode o terminal posa "gpp -o <nom del arxiu creat> <adreca de l'arxiu c++> && <adreca de l'arxiu creat>"
 
