@@ -1,7 +1,7 @@
 //  main.cpp
-//  hello world
-//  Created by Joan Galindo López on 19/11/2023.
-//  Si estàs en vscode o terminal posa "gpp -o <nom del arxiu creat> <adreca de l'arxiu c++> && <adreca de l'arxiu creat>"
+//  Calculadora en català
+//  Creat per en Joan Galindo López al dia 19/11/2023.
+//  Si estàs en terminal posa "gpp -o <nom del arxiu creat> <adreca de l'arxiu c++> && <adreca de l'arxiu creat>"
 
 #include <iostream>
 #include <unistd.h>
