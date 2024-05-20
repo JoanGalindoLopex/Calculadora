@@ -1,4 +1,4 @@
-#include "mcm_i_mcd.h"
+#include "mcm_i_mcd.hpp"
 
 int mcd(int a, int b) {
     if (b > a) return mcd(b, a);

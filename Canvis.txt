@@ -1,0 +1,4 @@
+Calculadora - 1.4
+
+- He afegit el sumatori i l'exponent
+- He fet alguns arxius que tinguin el nom en català (sense accents)
